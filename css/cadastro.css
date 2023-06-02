@@ -1,0 +1,15 @@
+.box {
+    border: 1px solid black;
+    padding: 2em;
+    margin: 10em 20em 10em 20em;
+    text-align: center;
+    width: 50%;
+}
+
+#id {
+    position: center;
+}
+
+.button{
+    margin:10px;
+}
